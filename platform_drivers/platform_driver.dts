@@ -1,0 +1,5 @@
+my_device {
+    compatible = "jyothi,my-device";
+    reg = <0x40000000 0x100>;
+    interrupts = <42>;
+};
