@@ -1,0 +1,1 @@
+savedcmd_/home/mirafra/linux/day2/mydevice.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/mirafra/linux/day2/mydevice.ko /home/mirafra/linux/day2/mydevice.o /home/mirafra/linux/day2/mydevice.mod.o
